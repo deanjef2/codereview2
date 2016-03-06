@@ -26,17 +26,6 @@ body {
   background-color: #FFFFCC;
 }
 
-
-
-
-#Rome {
-  display: none;
-}
-
-#Antarctica {
-  display: none;
-}
-
-#Hawaii {
+.destination {
   display: none;
 }
